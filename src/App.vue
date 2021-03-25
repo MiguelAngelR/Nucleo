@@ -5,7 +5,7 @@
 </template>
 
 <script>
-  // Styles
+  // Styles cambios en git
   import '@/styles/overrides.sass'
 
   export default {
